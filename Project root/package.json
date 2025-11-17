@@ -1,0 +1,13 @@
+{
+  "name": "gefari-frontend",
+  "version": "1.0.0",
+  "description": "Frontend assets for gefari Laravel Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
